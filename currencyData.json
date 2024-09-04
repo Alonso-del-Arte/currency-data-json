@@ -1,0 +1,6 @@
+[
+  {"letterCode":"USD", "numberCode":840, "name":"United States dollar", 
+   "symbol":"$"},
+  {"letterCode":"EUR", "numberCode":978, "name":"euro", "symbol":"&euro;"}
+]
+
